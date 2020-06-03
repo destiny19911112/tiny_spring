@@ -7,7 +7,7 @@ import org.junit.Test;
 /**
  * @author xiongxl
  * @version $Id: BeanFactoryTest.java, v 0.1 2020-06-03 Exp $$
- * @desc TODO
+ * @desc Bean工厂 测试类
  */
 public class BeanFactoryTest {
 
